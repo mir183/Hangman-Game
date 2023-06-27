@@ -1,4 +1,4 @@
-# Guess the Word Game
+# The Hangman Game
 
 Guess the Word Game is a simple word-guessing game built using Python and the Tkinter library. The game presents a word with hidden letters, and the player needs to guess the letters one by one to reveal the complete word. The player has a limited number of tries, and if they fail to guess the word within the given tries, they lose the game.
 
@@ -44,5 +44,6 @@ To run the Guess the Word Game, you need to have the following installed:
 
 - The game uses the Faker library to generate random words.
 - The GUI is created using the Tkinter library, which is included in Python's standard library.
+- ChatGPT has been used for fixing bugs, commenting, and making the code more efficient. 
 
-Feel free to modify and customize the game as per your needs. Enjoy playing the The Hnagman Game!
+Feel free to modify and customize the game as per your needs. Enjoy playing The Hangman Game!
