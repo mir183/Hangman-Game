@@ -182,7 +182,7 @@ def select_difficulty():
 
 # Create the main window
 window = tk.Tk()
-window.title("Guess the Word Game")
+window.title("The Hangman Game")
 window.geometry("720x720")
 
 style = ttk.Style()
